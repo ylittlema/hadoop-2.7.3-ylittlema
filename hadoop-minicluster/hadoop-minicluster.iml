@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="hadoop-common" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-annotations" />
+    <orderEntry type="module-library">
+      <library name="Maven: jdk.tools:jdk.tools:1.8">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/../lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="hadoop-auth" />
+    <orderEntry type="module" module-name="hadoop-hdfs" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-tests" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-common" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-nodemanager" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-resourcemanager" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-applicationhistoryservice" />
+    <orderEntry type="module" module-name="hadoop-yarn-common" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-jobclient" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-common" />
+    <orderEntry type="module" module-name="hadoop-yarn-client" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-shuffle" />
+    <orderEntry type="module" module-name="hadoop-common" />
+    <orderEntry type="module" module-name="hadoop-hdfs" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-app" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-web-proxy" />
+    <orderEntry type="module" module-name="hadoop-yarn-api" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-core" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-jobclient" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-hs" />
+  </component>
+</module>

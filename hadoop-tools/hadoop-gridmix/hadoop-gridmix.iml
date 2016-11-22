@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="hadoop-annotations" scope="PROVIDED" />
+    <orderEntry type="module-library">
+      <library name="Maven: jdk.tools:jdk.tools:1.8">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/../lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-hs" scope="TEST" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-common" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-yarn-client" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-app" scope="TEST" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-web-proxy" scope="TEST" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-core" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-yarn-common" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-jobclient" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-shuffle" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-mapreduce-client-jobclient" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-common" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-auth" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-rumen" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-hdfs" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-common" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-hdfs" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-tests" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-common" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-nodemanager" scope="PROVIDED" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-resourcemanager" scope="TEST" />
+    <orderEntry type="module" module-name="hadoop-yarn-server-applicationhistoryservice" scope="TEST" />
+    <orderEntry type="module" module-name="hadoop-yarn-api" scope="PROVIDED" />
+  </component>
+</module>
