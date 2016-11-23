@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-app/hadoop-mapreduce-client-app.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-app/hadoop-mapreduce-client-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-common/hadoop-mapreduce-client-common.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-common/hadoop-mapreduce-client-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-core/hadoop-mapreduce-client-core.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-core/hadoop-mapreduce-client-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/hadoop-mapreduce-client-hs.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/hadoop-mapreduce-client-hs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/hadoop-mapreduce-client-hs-plugins.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/hadoop-mapreduce-client-hs-plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/hadoop-mapreduce-client-jobclient.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/hadoop-mapreduce-client-jobclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/hadoop-mapreduce-client-shuffle.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/hadoop-mapreduce-client-shuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce-examples/hadoop-mapreduce-examples.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce-examples/hadoop-mapreduce-examples.iml" />
+    </modules>
+  </component>
+</project>

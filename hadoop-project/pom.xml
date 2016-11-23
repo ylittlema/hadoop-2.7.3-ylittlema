@@ -359,11 +359,11 @@
         <version>${project.version}</version>
       </dependency>
 
-      <dependency>
+      <!--<dependency>
         <groupId>org.apache.hadoop</groupId>
         <artifactId>hadoop-minikdc</artifactId>
         <version>${project.version}</version>
-      </dependency>
+      </dependency>-->
 
       <dependency>
         <groupId>org.apache.hadoop</groupId>
